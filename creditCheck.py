@@ -63,8 +63,8 @@ def checker():
     check = str(check)
 
     # just for testing sums
-    print(sumnormal)
-    print(sumreverse)
+    #print(sumnormal)
+    #print(sumreverse)
 
     if check[1] == "0" and creditnum[0] == "3":
         print("AMEX")
@@ -77,3 +77,4 @@ def checker():
 
 
 main()
+input()
